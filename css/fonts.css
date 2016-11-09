@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Baron Neue';
+    src: url('../assets/fonts/BaronNeue/Baron Neue.eot');
+    src: url('../assets/fonts/BaronNeue/Baron Neue.woff') format('woff'), url('../assets/fonts/BaronNeue/Baron Neue.ttf') format('truetype'), url('../assets/fonts/BaronNeue/Baron Neue.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Baron Neue Bold';
+    src: url('../assets/fonts/BaronNeueBold/Baron Neue Bold.eot');
+    src: url('../assets/fonts/BaronNeueBold/Baron Neue Bold.woff') format('woff'), url('../assets/fonts/BaronNeueBold/Baron Neue Bold.ttf') format('truetype'), url('../assets/fonts/BaronNeueBold/Baron Neue Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+

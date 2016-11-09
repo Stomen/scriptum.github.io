@@ -1,0 +1,45 @@
+@media screen and (min-width: 1024px){
+.template .wrap-iphone{
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 768px){
+    .main-photo span{
+        font-size: 5em;
+    }
+    .quotes-wrap .main-photo span {
+        font-size: 3.5em;
+    }
+}
+@media screen and (max-width: 425px){
+    .main-photo span{
+        font-size: 2em;
+        left: 20%;
+    }
+    .quotes-wrap .main-photo span {
+        font-size: 2.5em;
+    }
+    .quotes-wrap>span{
+        padding: 0 5%;
+    }
+    footer .socblock span{
+        font-size: 1em;
+    }
+    .wrapper .contacts form input:first-child{
+        width: 100%;
+        float: none;
+    }
+    .wrapper .contacts form input:nth-child(2){
+        width: 100%;
+        float: none;
+    }
+}
+@media screen and (max-width: 320px){
+    .main-photo span{
+        font-size: 2em;
+        left: 10%;
+    }
+    .quotes-wrap .main-photo span {
+        font-size: 2.5em;
+    }
+}

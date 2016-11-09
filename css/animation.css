@@ -1,0 +1,43 @@
+@keyframes filling1 {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 95%;
+    }
+}
+@keyframes filling2 {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 85%;
+    }
+}
+@keyframes filling3 {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 70%;
+    }
+}
+
+.procent-filed .progress1{
+    animation-name: filling1;
+    animation-duration: 3s;
+    background-color: black;
+    width: 95%;
+}
+.procent-filed .progress2{
+    animation-name: filling2;
+    animation-duration: 3s;
+    background-color: black;
+    width: 85%;
+}
+.procent-filed .progress3{
+    animation-name: filling3;
+    animation-duration: 3s;
+    background-color: black;
+    width: 70%;
+}
